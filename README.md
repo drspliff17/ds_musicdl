@@ -28,14 +28,12 @@ an Artist Name(*), and Album Name.
 If you use [Scoop](https://scoop.sh), you can install it by doing:
 
 ```powershell
-scoop bucket add ds_musicdl https://github.com/drspliff17/scoop-bucket
-scoop install ds_musicdl
+scoop bucket add ds_musicdl https://github.com/drspliff17/scoop-ds_musicdl
+scoop install musicdl
 ```
 
 ### Manual
 Download the latest [release here](https://github.com/drspliff17/ds_musicdl/releases/latest)
-```
-```
 Extract ds_musicdl.zip
 Move your respective executable to a directory in your PATH
 
