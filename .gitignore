@@ -1,0 +1,7 @@
+*
+#
+!*/
+!.gitignore
+!musicdl.py
+!compile.sh
+!buildinfo
