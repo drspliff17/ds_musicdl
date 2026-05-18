@@ -9,9 +9,10 @@ musicdl (url_here) (opt)
 ---
 
 ## Overview
- - Downloads from Youtube Music URL
- - Cleans filenames
- - Fixes .mp3 file metadata
+
+- Downloads from Youtube Music URL
+- Cleans filenames
+- Fixes .mp3 file metadata
 
 When musicdl runs, you will be prompted to enter a download location (default = CWD),
 an Artist Name(*), and Album Name.
@@ -24,20 +25,14 @@ an Artist Name(*), and Album Name.
 
 ## Installation
 
-### Windows: Scoop (Recommended)
-If you use [Scoop](https://scoop.sh), you can install it by doing:
-
-```powershell
-scoop bucket add ds_musicdl https://github.com/drspliff17/scoop-ds_musicdl
-scoop install musicdl
-```
-
 ### Manual
+
 Download the latest [release here](https://github.com/drspliff17/ds_musicdl/releases/latest)
 Extract ds_musicdl.zip
 Move your respective executable to a directory in your PATH
 
 # Note
+
 This is an early build, and has been cobbled together, based from my bash scripts that do the
 same thing.
 
